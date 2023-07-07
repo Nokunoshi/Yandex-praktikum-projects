@@ -35,4 +35,5 @@
 ## Подготовлены материалы:
 - [💾 Ссылка на презентацию](https://disk.yandex.ru/i/p5O5K_2btf47zA)
 - [📊 Tableau](https://public.tableau.com/app/profile/petr.iadreev/viz/Dashboard_16854429774540/Dashboard1)
+  
 ***Статус проекта: Завершен***
